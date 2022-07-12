@@ -1,3 +1,40 @@
+PRIVACY POLICY
+
+Last updated July 12, 2022
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vestibulum commodo lorem eget tincidunt. Curabitur imperdiet commodo risus sed commodo.
+
+Nullam auctor pellentesque pretium. Mauris blandit est sit amet odio tempus, sit amet viverra ipsum finibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec bibendum congue ipsum quis ullamcorper. Ut risus lacus, faucibus sit amet cursus vitae, tristique id sapien.
+
+Vestibulum leo justo, mollis euismod nunc eget, feugiat vulputate enim.
+
+Suspendisse consectetur ac odio rhoncus commodo. In hac habitasse platea dictumst. In hac habitasse platea dictumst.
+
+Curabitur egestas rhoncus ante, a lobortis velit ultrices id. Integer blandit tincidunt luctus. Nam efficitur a sapien et placerat. Ut faucibus quis nulla dignissim mollis.
+
+PREVIEW
+Tips:
+Are you making substantive or material changes to your Privacy Policy?
+If so, you need to inform your users about these changes. Failure to provide required notice could result in fines, implementation of annual reporting for a number of years, and reputational damage.
+
+What are substantive or material changes?
+
+Examples substantive or material changes that should be communicated to your users include:
+Changes about the reason why you are processing a user’s personal information, particularly if it is to process information that you have already collected about them in a new way (e.g., the new purposes are not aligned or compatible with the original purposes)
+Changes to the identity of the data controller (e.g., if the identity of the data controller is changing)
+Changes about how your users can exercise their rights
+Changes to the location where the processing takes place (e.g., if data will be hosted in a different country or territory)
+A change that would be unexpected to your users (e.g., if the controller will be sharing data with a new type of processor that will be processing data in an unexpected way)
+A change that would otherwise impact the user in a meaningful way (e.g., processing of sensitive personal information elements)
+A change that would seem unfair or deceptive to make the change without notifying individuals
+By contrast, notice is not required for corrections of misspellings and stylistic/ grammatical flaws. However, it is good practice to actively notify users of changes that may not, by themselves, constitute material changes but which together constitute an important update to the notice (whether in substance, style, or format).
+
+Privacy Policy
+Terms Of Use
+Disclaimer
+Cookie Policy
+Consent Preferences
+Close
 PRIVACY NOTICE
 
 Last updated July 12, 2022
@@ -38,15 +75,16 @@ TABLE OF CONTENTS
 1. WHAT INFORMATION DO WE COLLECT?
 2. HOW DO WE PROCESS YOUR INFORMATION?
 3. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
-4. HOW LONG DO WE KEEP YOUR INFORMATION?
-5. HOW DO WE KEEP YOUR INFORMATION SAFE?
-6. DO WE COLLECT INFORMATION FROM MINORS?
-7. WHAT ARE YOUR PRIVACY RIGHTS?
-8. CONTROLS FOR DO-NOT-TRACK FEATURES
-9. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
-10. DO WE MAKE UPDATES TO THIS NOTICE?
-11. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
-12. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
+5. HOW LONG DO WE KEEP YOUR INFORMATION?
+6. HOW DO WE KEEP YOUR INFORMATION SAFE?
+7. DO WE COLLECT INFORMATION FROM MINORS?
+8. WHAT ARE YOUR PRIVACY RIGHTS?
+9. CONTROLS FOR DO-NOT-TRACK FEATURES
+10. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+11. DO WE MAKE UPDATES TO THIS NOTICE?
+12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
 1. WHAT INFORMATION DO WE COLLECT?
 
@@ -88,8 +126,15 @@ In Short: We may share information in specific situations described in this sect
 
 We may need to share your personal information in the following situations:
 Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
+When we use Google Maps Platform APIs. We may share your information with certain Google Maps Platform APIs (e.g., Google Maps API, Places API). To find out more about Google’s Privacy Policy, please refer to this link.
 
-4. HOW LONG DO WE KEEP YOUR INFORMATION?
+4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
+
+In Short: We may use cookies and other tracking technologies to collect and store your information.
+
+We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Notice.
+
+5. HOW LONG DO WE KEEP YOUR INFORMATION?
 
 In Short: We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law.
 
@@ -97,19 +142,19 @@ We will only keep your personal information for as long as it is necessary for t
 
 When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
-5. HOW DO WE KEEP YOUR INFORMATION SAFE?
+6. HOW DO WE KEEP YOUR INFORMATION SAFE?
 
 In Short: We aim to protect your personal information through a system of organizational and technical security measures.
 
 We have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.
 
-6. DO WE COLLECT INFORMATION FROM MINORS?
+7. DO WE COLLECT INFORMATION FROM MINORS?
 
 In Short: We do not knowingly collect data from or market to children under 18 years of age.
 
 We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at kenyiseto@hotmail.com.
 
-7. WHAT ARE YOUR PRIVACY RIGHTS?
+8. WHAT ARE YOUR PRIVACY RIGHTS?
 
 In Short:  You may review, change, or terminate your account at any time.
  
@@ -129,11 +174,11 @@ Upon your request to terminate your account, we will deactivate or delete your a
 
 If you have questions or comments about your privacy rights, you may email us at kenyiseto@hotmail.com.
 
-8. CONTROLS FOR DO-NOT-TRACK FEATURES
+9. CONTROLS FOR DO-NOT-TRACK FEATURES
 
 Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice.
 
-9. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+10. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 
 In Short: Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.
 
@@ -141,13 +186,13 @@ California Civil Code Section 1798.83, also known as the "Shine The Light" law, 
 
 If you are under 18 years of age, reside in California, and have a registered account with Services, you have the right to request removal of unwanted data that you publicly post on the Services. To request removal of such data, please contact us using the contact information provided below and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Services, but please be aware that the data may not be completely or comprehensively removed from all our systems (e.g., backups, etc.).
 
-10. DO WE MAKE UPDATES TO THIS NOTICE?
+11. DO WE MAKE UPDATES TO THIS NOTICE?
 
 In Short: Yes, we will update this notice as necessary to stay compliant with relevant laws.
 
 We may update this privacy notice from time to time. The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
 
-11. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
 If you have questions or comments about this notice, you may email us at kenyiseto@hotmail.com or by post to:
 
@@ -157,7 +202,7 @@ kenyiseto@hotmail.com
 __________
 Peru
 
-12. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
 Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please submit a request form by clicking here.
 
